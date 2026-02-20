@@ -1,16 +1,22 @@
-## Hi there 👋
+# Matt Connors
 
-<!--
-**MattConnors365/MattConnors365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer working primarily with C# and Python.
 
-Here are some ideas to get you started:
+I enjoy building structured systems, APIs, and practical tools.  
+While I can work across the stack when needed, I’m strongest on the backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **[CipherPlayground](https://github.com/MattConnors365/CipherPlayground)** – Collection of common cipher implementations delivered as a C# library, API, console app, and web UI.
+- **[ForecastV](https://github.com/MattConnors365/ForecastV)** – GTA V mod that syncs in-game weather with real-world conditions.
+- **[RockPaperScissors](https://github.com/MattConnors365/RockPaperScissors)** – Command-line C# implementation of the classic game.
+- **[cnpToolkit](https://github.com/MattConnors365/cnpToolkit)** – Generator and analyzer for Romanian national ID numbers (archived / slightly outdated).
+
+## Tech
+C#, .NET, Python, APIs, Git
+
+## Currently
+Improving backend architecture skills and exploring more structured project design.
+
+---
+
+Open to part-time / remote opportunities.
